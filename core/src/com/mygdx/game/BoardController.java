@@ -15,7 +15,7 @@ import com.badlogic.gdx.math.Vector3;
 public class BoardController {
 
 
-    private Texture stone;
+
     private Sound sound;
     private Sprite active_sprite = null;
     private int index_i, index_j;
